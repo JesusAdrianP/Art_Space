@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="reset">Reset</string>
+    <string name="Neymar">Neymar</string>
+    <string name="Neymar_year">2022</string>
+    <string name="Neymar_description">Neymar playing the Fifa World Cup 2022 with Brazil</string>
+    <string name="Neymar_description_two">Neymar when he played for barcelona. Champions League 2016</string>
+    <string name="neymar_two_year">2016</string>
+    <string name="Messi">Messi</string>
+    <string name="Messi_year">2022</string>
+    <string name="Messi_description">Messi winning the Fifa World Cup 2022</string>
+    <string name="Cristiano_Ronaldo">Cristiano Ronaldo</string>
+    <string name="cr7_year">2018</string>
+    <string name="CR7_description">Cristiano Ronaldo celebrating his fifth UEFA Champions League in 2018 with Real Madrid</string>
+    <string name="De_Bruyne">Kevin De Bruyne</string>
+    <string name="Debruyne_year">2023</string>
+    <string name="Debruyne_description">Best player of Manchester City</string>
+    <string name="Dinho">Ronaldinho</string>
+    <string name="dinho_year">2006</string>
+    <string name="dinho_description">One of the best players in the history of FC Barcelona and Brazil</string>
+    <string name="ter_stegen">Ter Stegen</string>
+    <string name="terStegen_year">2022</string>
+    <string name="terStegen_description">The best goalkeeper of FC Barcelona</string>
+    <string name="barcelona">FC Barcelona</string>
+    <string name="barcelona_year">2023</string>
+    <string name="barcelona_description">One of the best teams in the world</string>
+    <string name="haaland">Erling Haaland</string>
+    <string name="haaland_year">2022</string>
+    <string name="haaland_description">Haaland broke the record of goals scored in the 2022-23 Premier League</string>
+    <string name="mbappe">Kylian Mbappé</string>
+    <string name="mbappe_year">2022</string>
+    <string name="mbappe_description">Mbappé won the 2018 Fifa World Cup at the age of 19</string>
+</resources>
